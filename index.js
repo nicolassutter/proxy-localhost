@@ -5,7 +5,7 @@
  * 
  * 1. Faire tourner le projet sur son PC de dev
  * 2. Remplacer l'IP de ce sript par l'IP locale du PC de dev
- * 3. Lancer ce script et accéder à localhost:8080 sur le Mac.
+ * 3. Lancer ce script sur le Mac et accéder à localhost:8080 sur le Mac.
  */
 
 const http = require('http')
